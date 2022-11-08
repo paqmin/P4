@@ -6,7 +6,6 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Display:ital,wght@0,100;0,300;0,400;0,500;1,300&display=swap');
 
 a,
 button {
@@ -18,7 +17,11 @@ a:hover {
     text-decoration: none;
     cursor: pointer;
 }
-
+blockquote p{
+    font-size: large;
+    font-style: italic;
+    
+}
 #page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
@@ -286,6 +289,7 @@ a:hover {
 
 #bloc-1-hero h1 {
     font-size: 32px;
+    font-weight: 500;
 }
 
 .navbar {
@@ -650,7 +654,7 @@ p,
 label,
 .btn,
 a {
-    font-family: 'Noto Sans Display', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-weight: 400;
     color: #575757!important;
 }
@@ -706,7 +710,7 @@ p {
 }
 
 h2 {
-    font-size: 22px;
+    /* font-size: 22px; */
     line-height: 1.4em;
 }
 
@@ -776,7 +780,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #ffffff!important;
 }
 
 .btn-atomic-tangerine {
@@ -819,7 +823,7 @@ h4 {
 }
 
 .bg-banniere {
-    background-image: url("img/agence-la-panthere.jpg");
+    background-image: url("img/agence-la-panthere2.jpeg");
 }
 
 .bg-presentation {
