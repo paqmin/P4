@@ -690,10 +690,10 @@ p {
     margin: auto auto auto auto;
 }
 
-.h1 {
+/* .h1 {
     font-size: 20px;
     font-family: "Open Sans";
-}
+} */
 
 .cta-hero {
     margin-top: 22px;
@@ -720,7 +720,11 @@ h3 {
     font-weight: 700;
     color: #333333!important;
 }
-
+.uppercase{
+    text-transform: uppercase; 
+    font-size: large;
+    font-weight: 600;
+}
 .med-width-whitespace {
     max-width: 800px;
     margin: auto auto auto auto;
