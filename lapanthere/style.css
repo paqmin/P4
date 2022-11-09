@@ -34,8 +34,8 @@ blockquote p{
 .bloc {
     width: 100%;
     clear: both;
-    background: 50% 50% no-repeat;
-    padding: 0 50px;
+    background: 10% 15% no-repeat;
+    padding: 0 20px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -715,7 +715,7 @@ h2 {
 }
 
 h3 {
-    font-size: 15px;
+    /* font-size: 15px; */
     text-transform: uppercase;
     font-weight: 700;
     color: #333333!important;
@@ -824,10 +824,11 @@ h4 {
 
 .bg-banniere {
     background-image: url("img/agence-la-panthere2.jpeg");
+   
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/students-working-on-project.jpeg");
 }
 
 @media (max-width: 1024px) {
