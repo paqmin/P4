@@ -543,7 +543,7 @@ a[data-lightbox] {
 
 a[data-lightbox]:hover::before {
     content: "+";
-    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial;
+    font-family: 'Poppins', sans-serif;
     font-size: 32px;
     width: 50px;
     height: 50px;
@@ -692,7 +692,7 @@ a {
 
 /* .h1 {
     font-size: 20px;
-    font-family: "Open Sans";
+    font-family: 'Poppins', sans-serif;
 } */
 
 .cta-hero {
@@ -747,8 +747,12 @@ h4 {
 .white {
     color: #FFFFFF!important;
 }
+
+.grey{
+    color:#524C52!important;
+}
 .rose {
-    color: #DC0B54!important;
+    color: #AE0943!important;
     font-weight: 600;
     font-size: larger;
 }
@@ -768,7 +772,7 @@ h4 {
 }
 
 .black-background {
-    background-color: #FFAE46;
+    background-color: #FFC375;
     padding: 40px 40px 40px 40px;
     border-radius: 60px;
 }
