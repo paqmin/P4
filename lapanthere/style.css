@@ -783,7 +783,7 @@ h4 {
 }
 
 .bgc-dark-slate-blue {
-    background-color: #364577;
+    background-color: #FE9B24;
 }
 
 .bgc-atomic-tangerine {
@@ -817,12 +817,12 @@ h4 {
 }
 
 .ltc-atomic-tangerine:hover {
-    color: #c27956!important;
+    color: #FE9B24!important;
 }
 
 .icon-dark-slate-blue {
-    color: #364577!important;
-    border-color: #364577!important;
+    color: #DC0B54!important;
+    border-color: #DC0B54!important;
 }
 
 .bg-dots-bg {
@@ -839,7 +839,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/students-working-on-project.");
+    background-image: url("img/students-working-on-project.webp");
 }
 
 @media (max-width: 1024px) {
