@@ -681,9 +681,9 @@ a {
     margin: auto auto auto auto;
 }
 
-p {
+/* p {
     font-size: 11px;
-}
+} */
 
 .tight-width-whitespace {
     max-width: 600px;
@@ -746,6 +746,11 @@ h4 {
 
 .white {
     color: #FFFFFF!important;
+}
+.rose {
+    color: #DC0B54!important;
+    font-weight: 600;
+    font-size: larger;
 }
 
 .portfolio-thumb {
