@@ -94,10 +94,10 @@ blockquote p{
     right: 0;
 }
 
-.texture-paper::before {
+/* .texture-paper::before {
     background: url("img/texture-paper.png");
     background-size: 280px 280px;
-}
+} */
 
 .b-parallax {
     background-attachment: fixed;
@@ -839,7 +839,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/students-working-on-project.webp");
+    background-image: url("img/students-working-on-project.");
 }
 
 @media (max-width: 1024px) {
