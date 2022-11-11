@@ -763,7 +763,8 @@ a {
 }
 
 .hero-bloc-text {
-    font-size: 38px;
+    font-size: 60px;
+    font-weight: 500;
 }
 
 .hero-bloc-text-sub {
