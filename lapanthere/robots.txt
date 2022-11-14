@@ -1,0 +1,7 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: /
+
+https://paqmin.github.io/P4/lapanthere/sitemap.xml
