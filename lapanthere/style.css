@@ -755,7 +755,6 @@ label,
 .btn,
 a {
     font-family: 'Poppins', sans-serif;
-    font-weight: 400;
     color: #000000!important;
 }
 
@@ -782,19 +781,12 @@ a {
     margin: auto auto auto auto;
 }
 
-/* p {
-    font-size: 11px;
-} */
 
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
 }
 
-/* .h1 {
-    font-size: 20px;
-    font-family: 'Poppins', sans-serif;
-} */
 
 .cta-hero {
     margin-top: 22px;
@@ -811,12 +803,10 @@ a {
 }
 
 h2 {
-    /* font-size: 22px; */
     line-height: 1.4em;
 }
 
 h3 {
-    /* font-size: 15px; */
     text-transform: uppercase;
     font-weight: 700;
     color: #333333!important;
