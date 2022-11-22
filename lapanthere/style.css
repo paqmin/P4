@@ -237,7 +237,7 @@ blockquote p{
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgba(255, 255, 255, .6);
+    color: rgba(1, 1, 1);
 }
 
 .d-bloc .a-btn:hover,
@@ -254,7 +254,7 @@ blockquote p{
 .d-bloc h5 a:hover,
 .d-bloc h6 a:hover,
 .d-bloc p a:hover {
-    color: rgba(255, 255, 255, 1);
+    color: rgba(1, 1, 1, 0.414);
 }
 
 .d-bloc .navbar-toggle .icon-bar {
@@ -569,9 +569,9 @@ button {
     outline: none!important;
 }
 
-/* .btn-rd {
+.btn-rd {
     border-radius: 40px;
-} */
+}
 
 .btn-clean {
     border: 1px solid rgba(0, 0, 0, .08);
@@ -836,21 +836,22 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: #000000!important;
 }
 
 .grey{
     color:#524C52!important;
 }
 .rose {
-    color: #AE0943!important;
+    color: #364577!important;
     font-weight: 600;
     font-size: larger;
 }
 
 .portfolio-thumb {
     margin-bottom: 24px;
-    /* border-radius: 60px; */
+    width: 100%;
+    
 }
 
 .portfolio-row {
@@ -865,7 +866,7 @@ h4 {
 .black-background {
     background-color: #FFC375;
     padding: 40px 40px 40px 40px;
-    /* border-radius: 60px; */
+    
 }
 
 .bold-link {
@@ -878,20 +879,20 @@ h4 {
 }
 
 .bgc-dark-slate-blue {
-    background-color: #FE9B24;
+    background-color: #F3976C!important;
 }
 
 .bgc-atomic-tangerine {
-    background-color: #DC0B54;
+    background-color: #F3976C!important;
 }
 
 .tc-white {
-    color: #ffffff!important;
+    color: #000000!important;
 }
 
 .btn-atomic-tangerine {
-    background: #DC0B54;
-    color: #FFFFFF!important;
+    background: #F3976C!important;
+    color: #000000!important;
 }
 
 .btn-atomic-tangerine:hover {
@@ -916,8 +917,8 @@ h4 {
 }
 
 .icon-dark-slate-blue {
-    color: #DC0B54!important;
-    border-color: #DC0B54!important;
+    color: #364577!important;
+    border-color: #364577!important;
 }
 
 .bg-dots-bg {
@@ -1017,6 +1018,7 @@ h4 {
     #disqus_thread {
         padding-left: 10px!important;
         padding-right: 10px!important;
+        text-align: center;
     }
     .b-parallax {
         background-attachment: scroll;
