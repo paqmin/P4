@@ -569,9 +569,9 @@ button {
     outline: none!important;
 }
 
-.btn-rd {
+/* .btn-rd {
     border-radius: 40px;
-}
+} */
 
 .btn-clean {
     border: 1px solid rgba(0, 0, 0, .08);
@@ -850,7 +850,7 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
-    border-radius: 60px;
+    /* border-radius: 60px; */
 }
 
 .portfolio-row {
@@ -865,7 +865,7 @@ h4 {
 .black-background {
     background-color: #FFC375;
     padding: 40px 40px 40px 40px;
-    border-radius: 60px;
+    /* border-radius: 60px; */
 }
 
 .bold-link {
